@@ -1,0 +1,51 @@
+body {
+    font-family: 'Inconsolata', monospace;
+    background-color: #f9f9f9;
+}
+
+section {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: #34495e;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #3498db;
+}
+
+p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+.btn-warning {
+    background-color: #e67e22;
+    border-color: #e67e22;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+}
+
+.card-text {
+    font-size: 1.1rem;
+    color: #777;
+}
+
+.contact-details {
+    font-size: 1.1rem;
+    margin-top: 10px;
+    color: #333;
+}
